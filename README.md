@@ -1,2 +1,2 @@
 # mydevground.github.io
-Staic website hoting test with GitHub Pages
+Staic website hosting test with GitHub Pages
